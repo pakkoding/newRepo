@@ -1,0 +1,35 @@
+.containerCover {
+    width:400px;
+    height:600px;
+    margin: auto;
+    padding-top: 50px;
+    padding: 0px 20px;
+    background-color: ghostwhite;
+}
+.setColorAqua{
+    color: deepskyblue;
+}
+textInput:focus { 
+    background-color: #242526;
+}
+.btnSet{
+    display: block;
+    margin:auto;
+    width:100px;
+    border-radius:4px;
+    border: 0px solid white;
+    padding: 8px 8px;
+    background-color: #17BBFE;
+    color: white;
+}
+.btnSet:hover{
+    cursor: pointer;
+}
+.footer{
+    margin-top: 20px;
+}
+.setLogo{
+    display: block;
+    width:180px;
+    margin: auto;
+}
